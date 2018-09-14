@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+.main-container {
+    border: 5px solid rgb(241, 211, 156);
+    margin: auto;
+}
+.section-1 {
+    display: inline-block;
+    text-align: center;
+    width: 1200px;
+    position: relative;
+    margin-top: 30px;
+}
+.foto-perfil img {
+    border-radius: 50%;
+    right: 100px;
+    border: 5px solid rgb(241, 211, 156);
+}
+.bandera img {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 500px;
+    top: 150px;
+    border-radius: 50%;
+}
+.section-2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.p-1 {
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    right: 0;
+    width: 200px;
+}
+.p-2 {
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    left: 0;
+    width: 200px;
+}
+.rrss {
+    text-align: center;
+}
+.rrss img {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 30px;
+}
